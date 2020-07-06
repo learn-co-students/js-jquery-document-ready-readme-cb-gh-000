@@ -5,7 +5,7 @@
 - Set up a call to `document.ready()`
 - Explain why `document.ready` is important
 
-## Introduction
+## Introduction d
 
 We don't ever want to write our JavaScript and jQuery inside our HTML files. For
 the same reasons that we want to separate out our CSS from our HTML, we want to
